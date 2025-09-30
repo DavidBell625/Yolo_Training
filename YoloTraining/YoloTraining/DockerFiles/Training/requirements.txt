@@ -1,0 +1,11 @@
+torch==2.2.0+cu121
+torchvision==0.17.0+cu121
+super-gradients==3.5.0
+pandas
+opencv-python
+pyyaml
+tqdm
+
+
+
+

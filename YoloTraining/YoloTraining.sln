@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoloTraining", "YoloTraining\YoloTraining.csproj", "{70BC0062-6BEB-42EC-85FC-B907A28D7A27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoloTrainingLib", "YoloTrainingLib\YoloTrainingLib.csproj", "{1860FCF5-C49F-4A07-8EB3-A87E16BC5DD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70BC0062-6BEB-42EC-85FC-B907A28D7A27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70BC0062-6BEB-42EC-85FC-B907A28D7A27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70BC0062-6BEB-42EC-85FC-B907A28D7A27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70BC0062-6BEB-42EC-85FC-B907A28D7A27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1860FCF5-C49F-4A07-8EB3-A87E16BC5DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1860FCF5-C49F-4A07-8EB3-A87E16BC5DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1860FCF5-C49F-4A07-8EB3-A87E16BC5DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1860FCF5-C49F-4A07-8EB3-A87E16BC5DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CC8A7BB-17B2-44B5-A750-DE4AE3BF0CB2}
+	EndGlobalSection
+EndGlobal

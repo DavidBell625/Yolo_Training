@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "YoloTraining": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

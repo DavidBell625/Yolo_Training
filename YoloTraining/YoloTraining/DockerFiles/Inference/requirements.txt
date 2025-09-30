@@ -1,0 +1,8 @@
+ultralytics
+fastapi
+uvicorn
+opencv-python-headless
+python-multipart
+pillow>=11.1.0
+pillow-heif
+pi-heif
